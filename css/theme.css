@@ -24,7 +24,7 @@ Primary use:	Company
 # Text Color (text): #666666
 # Text Color Deep (Text, title): #333333
 # Primary Color Light:  #fff652
-# Primary Color:   #fff537
+# Primary Color:   #4FFF4F
 # Primary Color Dark:  #e5dd32
 
 ------------------------------------------------------------------*/
@@ -2378,7 +2378,7 @@ input[type='submit'], button[type='button'] {
 /*Button*/
 .au-btn {
   line-height: 46px;
-  background: #fff537;
+  background: #4FFF4F;
   padding: 0 30px;
   display: inline-block;
   -webkit-transition: all 0.3s ease;
@@ -2387,7 +2387,7 @@ input[type='submit'], button[type='button'] {
   transition: all 0.3s ease;
   color: #333333;
   font-family: "Montserrat", sans-serif;
-  border: 2px solid #fff537;
+  border: 2px solid #4FFF4F;
   font-size: 15px;
 }
 
@@ -2442,8 +2442,8 @@ input[type='submit'], button[type='button'] {
 }
 
 .au-btn-circle:hover {
-  background: #fff537;
-  border-color: #fff537;
+  background: #4FFF4F;
+  border-color: #4FFF4F;
 }
 
 .au-btn-circle:active {
@@ -2592,7 +2592,7 @@ input[type='submit'], button[type='button'] {
 }
 
 .dots-style-1 li.slick-active button {
-  background: #fff537;
+  background: #4FFF4F;
 }
 
 .slick-dots-2 {
@@ -2859,7 +2859,7 @@ input[type='submit'], button[type='button'] {
 }
 
 .social-list .list-item a:hover {
-  background: #fff537;
+  background: #4FFF4F;
 }
 
 .social-list .list-item a:active {
@@ -2996,7 +2996,7 @@ ul.list-reset {
 .navbar-mobile .navbar-nav {
   display: block;
   border-bottom: 1px solid #e5e5e5;
-  background: #fff537;
+  background: #4FFF4F;
 }
 
 .navbar-mobile .navbar-nav .nav-item {
@@ -3244,7 +3244,7 @@ ul.list-reset {
 .card-service .card-figure .service-icon {
   width: 82px;
   height: 82px;
-  background: #fff537;
+  background: #4FFF4F;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
@@ -3275,7 +3275,7 @@ ul.list-reset {
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
   font-size: 36px;
-  color: #222222;
+  color: #0A0C11;
 }
 
 .card-service .card-header {
@@ -3294,7 +3294,7 @@ ul.list-reset {
 }
 
 .card-service:hover .card-figure .service-icon {
-  background: #222222;
+  background: #0A0C11;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -3306,7 +3306,7 @@ ul.list-reset {
   -o-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  color: #fff537;
+  color: #4FFF4F;
 }
 
 .card-resume .card-figure {
@@ -3379,7 +3379,7 @@ ul.list-reset {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 25px;
-  background: #fff537;
+  background: #4FFF4F;
   position: absolute;
   bottom: -105px;
   left: 0;
@@ -3901,7 +3901,7 @@ ul.list-reset {
 }
 
 .section-footer .footer-social .list-item a:hover {
-  background: #fff537;
+  background: #4FFF4F;
   color: #333333;
 }
 
@@ -3916,7 +3916,7 @@ ul.list-reset {
 
 .section-footer .footer-text-intro .fa {
   margin: 0 3px;
-  color: #fff537;
+  color: #4FFF4F;
 }
 
 .section-footer .footer-copy-text {
@@ -4567,8 +4567,8 @@ ul.list-reset {
 }
 
 .modal-primary .modal-header .au-btn:hover {
-  background: #fff537;
-  border-color: #fff537;
+  background: #4FFF4F;
+  border-color: #4FFF4F;
 }
 
 .modal-primary .modal-header .au-btn:active {
@@ -4686,7 +4686,7 @@ ul.list-reset {
   height: 40px;
   width: 40px;
   line-height: 40px;
-  background: #fff537;
+  background: #4FFF4F;
   -webkit-transition: background-color 0.1s linear;
   -o-transition: background-color 0.1s linear;
   -moz-transition: background-color 0.1s linear;
